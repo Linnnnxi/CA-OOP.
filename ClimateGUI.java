@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author lenovo
+ * @author Linru Wang
  */
 public class ClimateGUI extends javax.swing.JFrame {
 
